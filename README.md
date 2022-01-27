@@ -6,7 +6,7 @@ Hi there, I'm an aspiring full stack web developer who believes things always se
 
 ## 🛠 Skills
 #### Fluent: 
-JavaScript, HTML5, CSS/SASS, React.js, Node.js, Express.js, Web APIs, Git, Document Object Model(DOM)APIs
+JavaScript, HTML5, CSS/SASS, React.js, Node.js, Express.js, Rest APIs, Git, Document Object Model(DOM)APIs
 
 #### Proficient: 
 Mongodb, User Authentication, OAuth, Passport
@@ -17,7 +17,7 @@ Python, MySQL, Firebase, Jest, Enzyme, Next.js, Material UI
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() coming soon
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hnslyswhy.github.io/huanyu_portfolio/home.html) 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huanyu-wang-015b91190/)
 
