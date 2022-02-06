@@ -6,10 +6,10 @@ Hi there, I'm an aspiring full stack web developer who believes things always se
 
 ## 🛠 Skills
 #### Fluent: 
-JavaScript, HTML5, CSS/SASS, React.js, Node.js, Express.js, Rest APIs, Git, Document Object Model(DOM)APIs
+JavaScript, HTML5, CSS/SASS, React.js, Node.js, Express.js, Rest APIs, Git, Document Object Model(DOM)APIs, JTW tokens
 
 #### Proficient: 
-Mongodb, User Authentication, OAuth, Passport
+Mongodb, OAuth, Passport
 
 #### Some Experience: 
 Python, MySQL, Firebase, Jest, Enzyme, Next.js, Material UI
