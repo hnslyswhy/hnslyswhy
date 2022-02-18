@@ -12,7 +12,7 @@ JavaScript, HTML5, CSS/SASS, React.js, Node.js, Express.js, Rest APIs, Git, Docu
 Mongodb, OAuth, Passport
 
 #### Some Experience: 
-Python, MySQL, Firebase, Jest, Enzyme, Next.js, Material UI, AWS
+Python, MySQL, Next.js, Typescript, AWS,  Firebase, Jest, Enzyme, Material UI 
 
 
 
