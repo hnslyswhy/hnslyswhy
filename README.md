@@ -12,7 +12,7 @@ JavaScript, HTML5, CSS/SASS, React.js, Node.js, Express.js, Rest APIs, Git, Docu
 Mongodb, OAuth, Passport
 
 #### Some Experience: 
-Python, MySQL, Firebase, Jest, Enzyme, Next.js, Material UI
+Python, MySQL, Firebase, Jest, Enzyme, Next.js, Material UI, AWS
 
 
 
@@ -23,9 +23,9 @@ Python, MySQL, Firebase, Jest, Enzyme, Next.js, Material UI
 
 
 ## More about Me
-👩‍💻 I'm working on my 4Forces project;
+👩‍💻 I'm learning AWS;
 
-🧠 I'm learning data structure and algorithm💡; 
+🧠 I'm practicing data structure and algorithm daily💡; 
 
 🎓 I'm studying at UBC as a master student in Educational Technology;
 
