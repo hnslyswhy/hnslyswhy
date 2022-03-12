@@ -21,11 +21,10 @@ Python, MySQL, Next.js, Typescript, AWS,  Firebase, Material UI, AWS
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huanyu-wang-015b91190/)
 
-[![AWS Certificate](https://www.credly.com/badges/fd5ad511-10c3-44a8-a59c-3b296ef09a44?source=linked_in_profile)
 
 
 ## More about Me
-👩‍💻 I'm learning AWS;
+👩‍💻 I just earned my first certificate in AWS;
 
 🧠 I'm practicing data structure and algorithm daily💡; 
 
