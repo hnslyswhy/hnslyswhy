@@ -26,7 +26,7 @@ Python, MySQL, Next.js, Typescript, AWS,  Firebase, Material UI, AWS
 ## More about Me
 👩‍💻 I just earned my first certificate in AWS;
 
-🧠 I'm practicing data structure and algorithm daily💡; 
+🧠 I'm practicing data structure and algorithm daily💡; I find it's more useful (at least to me) to understand a common pattern fully before moving on the the next.
 
 🎓 I'm studying at UBC as a master student in Educational Technology;
 
