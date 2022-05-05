@@ -1,7 +1,7 @@
 
 # Huanyu
 ## 🚀 About Me
-Hi there, I'm an aspiring full stack web developer who believes things always seem to be impossible until they are done, wether it is creating impactful applications or flying high in the sky.
+Hi there, I'm a full stack web developer who believes things always seem to be impossible until they are done, wether it is creating impactful applications or flying high in the sky.
 
 
 ## 🛠 Skills
@@ -24,7 +24,7 @@ Python, MySQL, Next.js, Typescript, AWS,  Firebase, Material UI, AWS
 
 
 ## More about Me
-👩‍💻 I just earned my first certificate in AWS;
+👩‍💻 I'm learning Vue;
 
 🧠 I'm practicing data structure and algorithm daily💡; I find it's more useful (at least to me) to understand a common pattern fully before moving on the the next.
 
